@@ -1,20 +1,4 @@
 # TRIP - Bus Travel Website HTML Template
-
-A simple, responsive, and modern bus travel template built using HTML5, CSS3, and JavaScript.
-
-## 🚀 Preview
-
-- [Live Demo](https://themewagon.github.io/BusTraveller/)
-
-## 📥 Download
-
-- [Download](https://github.com/prashtt/BusTravel-website)
-
-## 🛠 Getting Started
-
-1. **Clone the repository**
-
-   ```bash
    git clone https://github.com/themewagon/BusTraveller
    ```
 
